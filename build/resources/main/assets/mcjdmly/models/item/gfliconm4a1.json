@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "items/pic_m4a1_d.tex"
+  }
+}

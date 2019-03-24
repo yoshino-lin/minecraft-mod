@@ -1,0 +1,395 @@
+Symbol range map extraction starting
+Processing 6 files
+startProcessing "mod\mcreator\ClientProxymcjdmly.java" md5: dfb5b5a10c7700e5c58887d13140372a
+@|mod\mcreator\ClientProxymcjdmly.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.ClientProxymcjdmly
+   @|mod\mcreator\ClientProxymcjdmly.java|36|54|ClientProxymcjdmly|class|mod.mcreator.ClientProxymcjdmly
+   @|mod\mcreator\ClientProxymcjdmly.java|63|81|CommonProxymcjdmly|class|mod.mcreator.CommonProxymcjdmly
+   Method Start: registerRenderers(Lmod/mcreator/mcjdmly;)V
+      @|mod\mcreator\ClientProxymcjdmly.java|135|143|instance|param|mod.mcreator.ClientProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V|instance|0
+      @|mod\mcreator\ClientProxymcjdmly.java|87|95|Override|class|java.lang.Override
+      @|mod\mcreator\ClientProxymcjdmly.java|109|126|registerRenderers|method|mod.mcreator.CommonProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V
+      @|mod\mcreator\ClientProxymcjdmly.java|127|134|mcjdmly|class|mod.mcreator.mcjdmly
+      @|mod\mcreator\ClientProxymcjdmly.java|149|157|instance|param|mod.mcreator.ClientProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V|instance|0
+      @|mod\mcreator\ClientProxymcjdmly.java|158|166|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\ClientProxymcjdmly.java|167|174|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\ClientProxymcjdmly.java|186|193|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\ClientProxymcjdmly.java|194|211|registerRenderers|method|mod.mcreator.mcjdmly.ModElement|registerRenderers|()V
+   Method End: registerRenderers(Lmod/mcreator/mcjdmly;)V
+Class End  : mod.mcreator.ClientProxymcjdmly
+endProcessing "mod\mcreator\ClientProxymcjdmly.java"
+
+startProcessing "mod\mcreator\CommonProxymcjdmly.java" md5: 71dd4eb3f7e47419df48210c2f55b5e4
+@|mod\mcreator\CommonProxymcjdmly.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.CommonProxymcjdmly
+   @|mod\mcreator\CommonProxymcjdmly.java|36|54|CommonProxymcjdmly|class|mod.mcreator.CommonProxymcjdmly
+   Method Start: registerRenderers(Lmod/mcreator/mcjdmly;)V
+      @|mod\mcreator\CommonProxymcjdmly.java|97|105|instance|param|mod.mcreator.CommonProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V|instance|0
+      @|mod\mcreator\CommonProxymcjdmly.java|71|88|registerRenderers|method|mod.mcreator.CommonProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V
+      @|mod\mcreator\CommonProxymcjdmly.java|89|96|mcjdmly|class|mod.mcreator.mcjdmly
+   Method End: registerRenderers(Lmod/mcreator/mcjdmly;)V
+Class End  : mod.mcreator.CommonProxymcjdmly
+endProcessing "mod\mcreator\CommonProxymcjdmly.java"
+
+startProcessing "mod\mcreator\mcjdmly.java" md5: 551650bf85b0729072d8456b51df4c3d
+@|mod\mcreator\mcjdmly.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1107|1110|Mod|class|net.minecraftforge.fml.common.Mod
+   @|mod\mcreator\mcjdmly.java|1111|1116|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|mod\mcreator\mcjdmly.java|1119|1126|mcjdmly|class|mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1127|1132|MODID|field|mod.mcreator.mcjdmly|MODID
+   @|mod\mcreator\mcjdmly.java|1134|1141|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|mod\mcreator\mcjdmly.java|1144|1151|mcjdmly|class|mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1152|1159|VERSION|field|mod.mcreator.mcjdmly|VERSION
+   @|mod\mcreator\mcjdmly.java|1174|1181|mcjdmly|class|mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1193|1205|IFuelHandler|class|net.minecraftforge.fml.common.IFuelHandler
+   @|mod\mcreator\mcjdmly.java|1207|1222|IWorldGenerator|class|net.minecraftforge.fml.common.IWorldGenerator
+   @|mod\mcreator\mcjdmly.java|1247|1253|String|class|java.lang.String
+   @|mod\mcreator\mcjdmly.java|1247|1253|String|class|java.lang.String
+   @|mod\mcreator\mcjdmly.java|1254|1259|MODID|field|mod.mcreator.mcjdmly|MODID|
+   @|mod\mcreator\mcjdmly.java|1294|1300|String|class|java.lang.String
+   @|mod\mcreator\mcjdmly.java|1294|1300|String|class|java.lang.String
+   @|mod\mcreator\mcjdmly.java|1301|1308|VERSION|field|mod.mcreator.mcjdmly|VERSION|
+   @|mod\mcreator\mcjdmly.java|1444|1462|CommonProxymcjdmly|class|mod.mcreator.CommonProxymcjdmly
+   @|mod\mcreator\mcjdmly.java|1322|1332|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy
+   @|mod\mcreator\mcjdmly.java|1333|1343|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|mod\mcreator\mcjdmly.java|1381|1391|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|mod\mcreator\mcjdmly.java|1444|1462|CommonProxymcjdmly|class|mod.mcreator.CommonProxymcjdmly
+   @|mod\mcreator\mcjdmly.java|1463|1468|proxy|field|mod.mcreator.mcjdmly|proxy|
+   @|mod\mcreator\mcjdmly.java|1503|1510|mcjdmly|class|mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1472|1480|Instance|class|net.minecraftforge.fml.common.Mod.Instance
+   @|mod\mcreator\mcjdmly.java|1481|1486|MODID|field|mod.mcreator.mcjdmly|MODID
+   @|mod\mcreator\mcjdmly.java|1503|1510|mcjdmly|class|mod.mcreator.mcjdmly
+   @|mod\mcreator\mcjdmly.java|1511|1519|instance|field|mod.mcreator.mcjdmly|instance|
+   @|mod\mcreator\mcjdmly.java|1547|1557|ModElement|class|mod.mcreator.mcjdmly.ModElement
+   @|mod\mcreator\mcjdmly.java|1542|1546|List|class|java.util.List
+   @|mod\mcreator\mcjdmly.java|1542|1546|List|class|java.util.List
+   @|mod\mcreator\mcjdmly.java|1547|1557|ModElement|class|mod.mcreator.mcjdmly.ModElement
+   @|mod\mcreator\mcjdmly.java|1559|1567|elements|field|mod.mcreator.mcjdmly|elements|
+   @|mod\mcreator\mcjdmly.java|1574|1583|ArrayList|class|java.util.ArrayList
+   Method Start: getBurnTime(Lnet/minecraft/item/ItemStack;)I
+      @|mod\mcreator\mcjdmly.java|1635|1639|fuel|param|mod.mcreator.mcjdmly|getBurnTime|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+      @|mod\mcreator\mcjdmly.java|1592|1600|Override|class|java.lang.Override
+      @|mod\mcreator\mcjdmly.java|1613|1624|getBurnTime|method|net.minecraftforge.fml.common.IFuelHandler|getBurnTime|(Lnet/minecraft/item/ItemStack;)I
+      @|mod\mcreator\mcjdmly.java|1625|1634|ItemStack|class|net.minecraft.item.ItemStack
+      @|mod\mcreator\mcjdmly.java|1650|1660|ModElement|class|mod.mcreator.mcjdmly.ModElement
+      @|mod\mcreator\mcjdmly.java|1671|1679|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|1704|1711|addFuel|method|mod.mcreator.mcjdmly.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I
+      @|mod\mcreator\mcjdmly.java|1712|1716|fuel|param|mod.mcreator.mcjdmly|getBurnTime|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+   Method End: getBurnTime(Lnet/minecraft/item/ItemStack;)I
+   Method Start: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|mod\mcreator\mcjdmly.java|1818|1824|random|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|mod\mcreator\mcjdmly.java|1830|1836|chunkX|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|mod\mcreator\mcjdmly.java|1842|1848|chunkZ|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|mod\mcreator\mcjdmly.java|1862|1867|world|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|mod\mcreator\mcjdmly.java|1885|1899|chunkGenerator|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkGenerator|4
+      @|mod\mcreator\mcjdmly.java|1916|1929|chunkProvider|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkProvider|5
+      @|mod\mcreator\mcjdmly.java|1774|1782|Override|class|java.lang.Override
+      @|mod\mcreator\mcjdmly.java|1796|1804|generate|method|net.minecraftforge.fml.common.IWorldGenerator|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|mod\mcreator\mcjdmly.java|1811|1817|Random|class|java.util.Random
+      @|mod\mcreator\mcjdmly.java|1856|1861|World|class|net.minecraft.world.World
+      @|mod\mcreator\mcjdmly.java|1869|1884|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator
+      @|mod\mcreator\mcjdmly.java|1901|1915|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider
+      @|mod\mcreator\mcjdmly.java|1956|1962|chunkX|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|mod\mcreator\mcjdmly.java|1992|1998|chunkZ|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|mod\mcreator\mcjdmly.java|2011|2016|world|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|mod\mcreator\mcjdmly.java|2017|2025|provider|field|net.minecraft.world.World|provider
+      @|mod\mcreator\mcjdmly.java|2026|2038|getDimension|method|net.minecraft.world.WorldProvider|getDimension|()I
+      @|mod\mcreator\mcjdmly.java|2051|2059|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|2060|2067|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\mcjdmly.java|2079|2086|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2087|2101|generateNether|method|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+      @|mod\mcreator\mcjdmly.java|2102|2107|world|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|mod\mcreator\mcjdmly.java|2109|2115|random|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|mod\mcreator\mcjdmly.java|2145|2150|world|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|mod\mcreator\mcjdmly.java|2151|2159|provider|field|net.minecraft.world.World|provider
+      @|mod\mcreator\mcjdmly.java|2160|2172|getDimension|method|net.minecraft.world.WorldProvider|getDimension|()I
+      @|mod\mcreator\mcjdmly.java|2184|2192|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|2193|2200|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\mcjdmly.java|2212|2219|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2220|2235|generateSurface|method|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+      @|mod\mcreator\mcjdmly.java|2236|2241|world|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|mod\mcreator\mcjdmly.java|2243|2249|random|param|mod.mcreator.mcjdmly|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+   Method End: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+   Method Start: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2333|2338|event|param|mod.mcreator.mcjdmly|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcjdmly.java|2279|2291|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|mod\mcreator\mcjdmly.java|2305|2309|load|method|mod.mcreator.mcjdmly|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2310|2332|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|mod\mcreator\mcjdmly.java|2344|2356|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|mod\mcreator\mcjdmly.java|2357|2376|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
+      @|mod\mcreator\mcjdmly.java|2386|2398|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|mod\mcreator\mcjdmly.java|2399|2421|registerWorldGenerator|method|net.minecraftforge.fml.common.registry.GameRegistry|registerWorldGenerator|(Lnet/minecraftforge/fml/common/IWorldGenerator;I)V
+      @|mod\mcreator\mcjdmly.java|2434|2449|NetworkRegistry|class|net.minecraftforge.fml.common.network.NetworkRegistry
+      @|mod\mcreator\mcjdmly.java|2450|2458|INSTANCE|field|net.minecraftforge.fml.common.network.NetworkRegistry|INSTANCE
+      @|mod\mcreator\mcjdmly.java|2459|2477|registerGuiHandler|method|net.minecraftforge.fml.common.network.NetworkRegistry|registerGuiHandler|(Ljava/lang/Object;Lnet/minecraftforge/fml/common/network/IGuiHandler;)V
+      @|mod\mcreator\mcjdmly.java|2488|2498|GuiHandler|class|mod.mcreator.mcjdmly.GuiHandler
+      @|mod\mcreator\mcjdmly.java|2505|2513|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|2514|2521|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\mcjdmly.java|2533|2540|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2541|2545|load|method|mod.mcreator.mcjdmly.ModElement|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2546|2551|event|param|mod.mcreator.mcjdmly|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcjdmly.java|2557|2562|proxy|field|mod.mcreator.mcjdmly|proxy
+      @|mod\mcreator\mcjdmly.java|2563|2580|registerRenderers|method|mod.mcreator.CommonProxymcjdmly|registerRenderers|(Lmod/mcreator/mcjdmly;)V
+   Method End: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|mod\mcreator\mcjdmly.java|2654|2659|event|param|mod.mcreator.mcjdmly|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+      @|mod\mcreator\mcjdmly.java|2594|2606|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|mod\mcreator\mcjdmly.java|2620|2630|serverLoad|method|mod.mcreator.mcjdmly|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|mod\mcreator\mcjdmly.java|2631|2653|FMLServerStartingEvent|class|net.minecraftforge.fml.common.event.FMLServerStartingEvent
+      @|mod\mcreator\mcjdmly.java|2665|2673|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|2674|2681|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\mcjdmly.java|2693|2700|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2701|2711|serverLoad|method|mod.mcreator.mcjdmly.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      @|mod\mcreator\mcjdmly.java|2712|2717|event|param|mod.mcreator.mcjdmly|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+   Method End: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2787|2792|event|param|mod.mcreator.mcjdmly|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|mod\mcreator\mcjdmly.java|2727|2739|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|mod\mcreator\mcjdmly.java|2753|2760|preInit|method|mod.mcreator.mcjdmly|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2761|2786|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|mod\mcreator\mcjdmly.java|2802|2807|event|param|mod.mcreator.mcjdmly|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|mod\mcreator\mcjdmly.java|2808|2815|getSide|method|net.minecraftforge.fml.common.event.FMLStateEvent|getSide|()Lnet/minecraftforge/fml/relauncher/Side;
+      @|mod\mcreator\mcjdmly.java|2821|2825|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|mod\mcreator\mcjdmly.java|2826|2832|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|mod\mcreator\mcjdmly.java|2837|2846|OBJLoader|class|net.minecraftforge.client.model.obj.OBJLoader
+      @|mod\mcreator\mcjdmly.java|2847|2855|INSTANCE|field|net.minecraftforge.client.model.obj.OBJLoader|INSTANCE
+      @|mod\mcreator\mcjdmly.java|2856|2865|addDomain|method|net.minecraftforge.client.model.obj.OBJLoader|addDomain|(Ljava/lang/String;)V
+      @|mod\mcreator\mcjdmly.java|2880|2888|elements|field|mod.mcreator.mcjdmly|elements
+      @|mod\mcreator\mcjdmly.java|2889|2896|forEach|method|java.lang.Iterable|forEach|(Ljava/util/function/Consumer;)V
+      @|mod\mcreator\mcjdmly.java|2913|2920|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2921|2929|instance|field|mod.mcreator.mcjdmly.ModElement|instance
+      @|mod\mcreator\mcjdmly.java|2937|2945|instance|field|mod.mcreator.mcjdmly|instance
+      @|mod\mcreator\mcjdmly.java|2950|2957|element|param|java.util.function.Consumer<mod.mcreator.mcjdmly.ModElement>|accept|(Lmod/mcreator/mcjdmly$ModElement;)V|element|-1
+      @|mod\mcreator\mcjdmly.java|2958|2965|preInit|method|mod.mcreator.mcjdmly.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|mod\mcreator\mcjdmly.java|2966|2971|event|param|mod.mcreator.mcjdmly|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Class Start: mod.mcreator.mcjdmly.GuiHandler
+      @|mod\mcreator\mcjdmly.java|3005|3015|GuiHandler|class|mod.mcreator.mcjdmly.GuiHandler
+      @|mod\mcreator\mcjdmly.java|3027|3038|IGuiHandler|class|net.minecraftforge.fml.common.network.IGuiHandler
+      Method Start: getServerGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|mod\mcreator\mcjdmly.java|3094|3096|id|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|id|0
+         @|mod\mcreator\mcjdmly.java|3111|3117|player|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|player|1
+         @|mod\mcreator\mcjdmly.java|3125|3130|world|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|world|2
+         @|mod\mcreator\mcjdmly.java|3136|3137|x|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|x|3
+         @|mod\mcreator\mcjdmly.java|3143|3144|y|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|y|4
+         @|mod\mcreator\mcjdmly.java|3150|3151|z|param|mod.mcreator.mcjdmly.GuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|z|5
+         @|mod\mcreator\mcjdmly.java|3045|3053|Override|class|java.lang.Override
+         @|mod\mcreator\mcjdmly.java|3063|3069|Object|class|java.lang.Object
+         @|mod\mcreator\mcjdmly.java|3070|3089|getServerGuiElement|method|net.minecraftforge.fml.common.network.IGuiHandler|getServerGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|mod\mcreator\mcjdmly.java|3098|3110|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer
+         @|mod\mcreator\mcjdmly.java|3119|3124|World|class|net.minecraft.world.World
+      Method End: getServerGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+      Method Start: getClientGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|mod\mcreator\mcjdmly.java|3228|3230|id|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|id|0
+         @|mod\mcreator\mcjdmly.java|3245|3251|player|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|player|1
+         @|mod\mcreator\mcjdmly.java|3259|3264|world|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|world|2
+         @|mod\mcreator\mcjdmly.java|3270|3271|x|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|x|3
+         @|mod\mcreator\mcjdmly.java|3277|3278|y|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|y|4
+         @|mod\mcreator\mcjdmly.java|3284|3285|z|param|mod.mcreator.mcjdmly.GuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;|z|5
+         @|mod\mcreator\mcjdmly.java|3179|3187|Override|class|java.lang.Override
+         @|mod\mcreator\mcjdmly.java|3197|3203|Object|class|java.lang.Object
+         @|mod\mcreator\mcjdmly.java|3204|3223|getClientGuiElement|method|net.minecraftforge.fml.common.network.IGuiHandler|getClientGuiElement|(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+         @|mod\mcreator\mcjdmly.java|3232|3244|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer
+         @|mod\mcreator\mcjdmly.java|3253|3258|World|class|net.minecraft.world.World
+      Method End: getClientGuiElement(ILnet/minecraft/entity/player/EntityPlayer;Lnet/minecraft/world/World;III)Ljava/lang/Object;
+   Class End  : mod.mcreator.mcjdmly.GuiHandler
+   @|mod\mcreator\mcjdmly.java|3325|3333|elements|field|mod.mcreator.mcjdmly|elements
+   @|mod\mcreator\mcjdmly.java|3334|3337|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   @|mod\mcreator\mcjdmly.java|3342|3362|mcreator_gfliconm4a1|class|mod.mcreator.mcreator_gfliconm4a1
+   @|mod\mcreator\mcjdmly.java|3369|3377|elements|field|mod.mcreator.mcjdmly|elements
+   @|mod\mcreator\mcjdmly.java|3378|3381|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   @|mod\mcreator\mcjdmly.java|3386|3404|mcreator_laserfake|class|mod.mcreator.mcreator_laserfake
+   Class Start: mod.mcreator.mcjdmly.ModElement
+      @|mod\mcreator\mcjdmly.java|3434|3444|ModElement|class|mod.mcreator.mcjdmly.ModElement
+      @|mod\mcreator\mcjdmly.java|3464|3470|Object|class|java.lang.Object
+      @|mod\mcreator\mcjdmly.java|3464|3470|Object|class|java.lang.Object
+      @|mod\mcreator\mcjdmly.java|3471|3479|instance|field|mod.mcreator.mcjdmly.ModElement|instance|
+      Method Start: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+         @|mod\mcreator\mcjdmly.java|3524|3529|event|param|mod.mcreator.mcjdmly.ModElement|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+         @|mod\mcreator\mcjdmly.java|3496|3500|load|method|mod.mcreator.mcjdmly.ModElement|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+         @|mod\mcreator\mcjdmly.java|3501|3523|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      Method End: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      Method Start: generateNether(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+         @|mod\mcreator\mcjdmly.java|3573|3578|world|param|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|world|0
+         @|mod\mcreator\mcjdmly.java|3587|3593|random|param|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|random|1
+         @|mod\mcreator\mcjdmly.java|3599|3605|chunkX|param|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|chunkX|2
+         @|mod\mcreator\mcjdmly.java|3611|3617|chunkZ|param|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|chunkZ|3
+         @|mod\mcreator\mcjdmly.java|3552|3566|generateNether|method|mod.mcreator.mcjdmly.ModElement|generateNether|(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+         @|mod\mcreator\mcjdmly.java|3567|3572|World|class|net.minecraft.world.World
+         @|mod\mcreator\mcjdmly.java|3580|3586|Random|class|java.util.Random
+      Method End: generateNether(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+      Method Start: generateSurface(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+         @|mod\mcreator\mcjdmly.java|3662|3667|world|param|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|world|0
+         @|mod\mcreator\mcjdmly.java|3676|3682|random|param|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|random|1
+         @|mod\mcreator\mcjdmly.java|3688|3694|chunkX|param|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|chunkX|2
+         @|mod\mcreator\mcjdmly.java|3700|3706|chunkZ|param|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V|chunkZ|3
+         @|mod\mcreator\mcjdmly.java|3640|3655|generateSurface|method|mod.mcreator.mcjdmly.ModElement|generateSurface|(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+         @|mod\mcreator\mcjdmly.java|3656|3661|World|class|net.minecraft.world.World
+         @|mod\mcreator\mcjdmly.java|3669|3675|Random|class|java.util.Random
+      Method End: generateSurface(Lnet/minecraft/world/World;Ljava/util/Random;II)V
+      Method Start: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+         @|mod\mcreator\mcjdmly.java|3763|3768|event|param|mod.mcreator.mcjdmly.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V|event|0
+         @|mod\mcreator\mcjdmly.java|3729|3739|serverLoad|method|mod.mcreator.mcjdmly.ModElement|serverLoad|(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+         @|mod\mcreator\mcjdmly.java|3740|3762|FMLServerStartingEvent|class|net.minecraftforge.fml.common.event.FMLServerStartingEvent
+      Method End: serverLoad(Lnet/minecraftforge/fml/common/event/FMLServerStartingEvent;)V
+      Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+         @|mod\mcreator\mcjdmly.java|3825|3830|event|param|mod.mcreator.mcjdmly.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+         @|mod\mcreator\mcjdmly.java|3791|3798|preInit|method|mod.mcreator.mcjdmly.ModElement|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+         @|mod\mcreator\mcjdmly.java|3799|3824|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      Method Start: registerRenderers()V
+         @|mod\mcreator\mcjdmly.java|3853|3870|registerRenderers|method|mod.mcreator.mcjdmly.ModElement|registerRenderers|()V
+      Method End: registerRenderers()V
+      Method Start: addFuel(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcjdmly.java|3911|3915|fuel|param|mod.mcreator.mcjdmly.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I|fuel|0
+         @|mod\mcreator\mcjdmly.java|3893|3900|addFuel|method|mod.mcreator.mcjdmly.ModElement|addFuel|(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcjdmly.java|3901|3910|ItemStack|class|net.minecraft.item.ItemStack
+      Method End: addFuel(Lnet/minecraft/item/ItemStack;)I
+   Class End  : mod.mcreator.mcjdmly.ModElement
+Class End  : mod.mcreator.mcjdmly
+endProcessing "mod\mcreator\mcjdmly.java"
+
+startProcessing "mod\mcreator\mcreator_VarListmcjdmly.java" md5: e8f25ce5b01cdfc5cfebc45f8e3e6a2e
+@|mod\mcreator\mcreator_VarListmcjdmly.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.mcreator_VarListmcjdmly
+   @|mod\mcreator\mcreator_VarListmcjdmly.java|36|59|mcreator_VarListmcjdmly|class|mod.mcreator.mcreator_VarListmcjdmly
+Class End  : mod.mcreator.mcreator_VarListmcjdmly
+endProcessing "mod\mcreator\mcreator_VarListmcjdmly.java"
+
+startProcessing "mod\mcreator\mcreator_gfliconm4a1.java" md5: 0e1387e2a1eed236f05ce27d96e8ac46
+@|mod\mcreator\mcreator_gfliconm4a1.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.mcreator_gfliconm4a1
+   @|mod\mcreator\mcreator_gfliconm4a1.java|475|495|mcreator_gfliconm4a1|class|mod.mcreator.mcreator_gfliconm4a1
+   @|mod\mcreator\mcreator_gfliconm4a1.java|504|522|mcjdmly.ModElement|class|mod.mcreator.mcjdmly.ModElement
+   @|mod\mcreator\mcreator_gfliconm4a1.java|541|545|Item|class|net.minecraft.item.Item
+   @|mod\mcreator\mcreator_gfliconm4a1.java|541|545|Item|class|net.minecraft.item.Item
+   @|mod\mcreator\mcreator_gfliconm4a1.java|546|551|block|field|mod.mcreator.mcreator_gfliconm4a1|block|
+   @|mod\mcreator\mcreator_gfliconm4a1.java|565|570|block|field|mod.mcreator.mcreator_gfliconm4a1|block
+   @|mod\mcreator\mcreator_gfliconm4a1.java|578|588|ItemCustom|class|mod.mcreator.mcreator_gfliconm4a1.ItemCustom
+   Method Start: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcreator_gfliconm4a1.java|649|654|event|param|mod.mcreator.mcreator_gfliconm4a1|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcreator_gfliconm4a1.java|599|607|Override|class|java.lang.Override
+      @|mod\mcreator\mcreator_gfliconm4a1.java|621|625|load|method|mod.mcreator.mcjdmly.ModElement|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcreator_gfliconm4a1.java|626|648|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|mod\mcreator\mcreator_gfliconm4a1.java|664|669|event|param|mod.mcreator.mcreator_gfliconm4a1|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcreator_gfliconm4a1.java|670|677|getSide|method|net.minecraftforge.fml.common.event.FMLStateEvent|getSide|()Lnet/minecraftforge/fml/relauncher/Side;
+      @|mod\mcreator\mcreator_gfliconm4a1.java|683|687|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|mod\mcreator\mcreator_gfliconm4a1.java|688|694|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|mod\mcreator\mcreator_gfliconm4a1.java|701|710|Minecraft|class|net.minecraft.client.Minecraft
+      @|mod\mcreator\mcreator_gfliconm4a1.java|711|723|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|mod\mcreator\mcreator_gfliconm4a1.java|726|739|getRenderItem|method|net.minecraft.client.Minecraft|getRenderItem|()Lnet/minecraft/client/renderer/RenderItem;
+      @|mod\mcreator\mcreator_gfliconm4a1.java|742|760|getItemModelMesher|method|net.minecraft.client.renderer.RenderItem|getItemModelMesher|()Lnet/minecraft/client/renderer/ItemModelMesher;
+      @|mod\mcreator\mcreator_gfliconm4a1.java|769|777|register|method|net.minecraft.client.renderer.ItemModelMesher|register|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|mod\mcreator\mcreator_gfliconm4a1.java|778|783|block|field|mod.mcreator.mcreator_gfliconm4a1|block
+      @|mod\mcreator\mcreator_gfliconm4a1.java|792|813|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+   Method End: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Class Start: mod.mcreator.mcreator_gfliconm4a1.ItemCustom
+      @|mod\mcreator\mcreator_gfliconm4a1.java|881|891|ItemCustom|class|mod.mcreator.mcreator_gfliconm4a1.ItemCustom
+      @|mod\mcreator\mcreator_gfliconm4a1.java|900|904|Item|class|net.minecraft.item.Item
+      Method Start: ItemCustom()V
+         @|mod\mcreator\mcreator_gfliconm4a1.java|917|927|ItemCustom|method|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|ItemCustom|()V
+         @|mod\mcreator\mcreator_gfliconm4a1.java|935|947|setMaxDamage|method|net.minecraft.item.Item|setMaxDamage|(I)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_gfliconm4a1.java|955|967|maxStackSize|field|net.minecraft.item.Item|maxStackSize
+         @|mod\mcreator\mcreator_gfliconm4a1.java|977|995|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1015|1030|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1050|1064|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1075|1090|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1091|1096|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1097|1105|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      Method End: ItemCustom()V
+      Method Start: getItemEnchantability()I
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1121|1129|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1143|1164|getItemEnchantability|method|net.minecraft.item.Item|getItemEnchantability|()I
+      Method End: getItemEnchantability()I
+      Method Start: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1244|1257|par1ItemStack|param|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I|par1ItemStack|0
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1190|1198|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1212|1233|getMaxItemUseDuration|method|net.minecraft.item.Item|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1234|1243|ItemStack|class|net.minecraft.item.ItemStack
+      Method End: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+      Method Start: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1332|1345|par1ItemStack|param|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par1ItemStack|0
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1359|1368|par2Block|param|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par2Block|1
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1282|1290|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1306|1321|getDestroySpeed|method|net.minecraft.item.Item|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1322|1331|ItemStack|class|net.minecraft.item.ItemStack
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1347|1358|IBlockState|class|net.minecraft.block.state.IBlockState
+      Method End: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+      Method Start: canHarvestBlock(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/item/ItemStack;)Z
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1448|1453|state|param|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|canHarvestBlock|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/item/ItemStack;)Z|state|0
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1465|1470|stack|param|mod.mcreator.mcreator_gfliconm4a1.ItemCustom|canHarvestBlock|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/item/ItemStack;)Z|stack|1
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1394|1402|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1420|1435|canHarvestBlock|method|net.minecraft.item.Item|canHarvestBlock|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/item/ItemStack;)Z
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1436|1447|IBlockState|class|net.minecraft.block.state.IBlockState
+         @|mod\mcreator\mcreator_gfliconm4a1.java|1455|1464|ItemStack|class|net.minecraft.item.ItemStack
+      Method End: canHarvestBlock(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/item/ItemStack;)Z
+   Class End  : mod.mcreator.mcreator_gfliconm4a1.ItemCustom
+Class End  : mod.mcreator.mcreator_gfliconm4a1
+endProcessing "mod\mcreator\mcreator_gfliconm4a1.java"
+
+startProcessing "mod\mcreator\mcreator_laserfake.java" md5: d82906a21ba3439b0ff67f9398ab1991
+@|mod\mcreator\mcreator_laserfake.java|8|20|mod.mcreator|package|mod.mcreator|(file)
+Class Start: mod.mcreator.mcreator_laserfake
+   @|mod\mcreator\mcreator_laserfake.java|522|540|mcreator_laserfake|class|mod.mcreator.mcreator_laserfake
+   @|mod\mcreator\mcreator_laserfake.java|549|567|mcjdmly.ModElement|class|mod.mcreator.mcjdmly.ModElement
+   @|mod\mcreator\mcreator_laserfake.java|586|590|Item|class|net.minecraft.item.Item
+   @|mod\mcreator\mcreator_laserfake.java|586|590|Item|class|net.minecraft.item.Item
+   @|mod\mcreator\mcreator_laserfake.java|591|596|block|field|mod.mcreator.mcreator_laserfake|block|
+   @|mod\mcreator\mcreator_laserfake.java|610|615|block|field|mod.mcreator.mcreator_laserfake|block
+   @|mod\mcreator\mcreator_laserfake.java|623|633|ItemCustom|class|mod.mcreator.mcreator_laserfake.ItemCustom
+   Method Start: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcreator_laserfake.java|694|699|event|param|mod.mcreator.mcreator_laserfake|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcreator_laserfake.java|644|652|Override|class|java.lang.Override
+      @|mod\mcreator\mcreator_laserfake.java|666|670|load|method|mod.mcreator.mcjdmly.ModElement|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|mod\mcreator\mcreator_laserfake.java|671|693|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|mod\mcreator\mcreator_laserfake.java|709|714|event|param|mod.mcreator.mcreator_laserfake|load|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|mod\mcreator\mcreator_laserfake.java|715|722|getSide|method|net.minecraftforge.fml.common.event.FMLStateEvent|getSide|()Lnet/minecraftforge/fml/relauncher/Side;
+      @|mod\mcreator\mcreator_laserfake.java|728|732|Side|class|net.minecraftforge.fml.relauncher.Side
+      @|mod\mcreator\mcreator_laserfake.java|733|739|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|mod\mcreator\mcreator_laserfake.java|746|755|Minecraft|class|net.minecraft.client.Minecraft
+      @|mod\mcreator\mcreator_laserfake.java|756|768|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|mod\mcreator\mcreator_laserfake.java|771|784|getRenderItem|method|net.minecraft.client.Minecraft|getRenderItem|()Lnet/minecraft/client/renderer/RenderItem;
+      @|mod\mcreator\mcreator_laserfake.java|787|805|getItemModelMesher|method|net.minecraft.client.renderer.RenderItem|getItemModelMesher|()Lnet/minecraft/client/renderer/ItemModelMesher;
+      @|mod\mcreator\mcreator_laserfake.java|814|822|register|method|net.minecraft.client.renderer.ItemModelMesher|register|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|mod\mcreator\mcreator_laserfake.java|823|828|block|field|mod.mcreator.mcreator_laserfake|block
+      @|mod\mcreator\mcreator_laserfake.java|837|858|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation
+   Method End: load(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Class Start: mod.mcreator.mcreator_laserfake.ItemCustom
+      @|mod\mcreator\mcreator_laserfake.java|924|934|ItemCustom|class|mod.mcreator.mcreator_laserfake.ItemCustom
+      @|mod\mcreator\mcreator_laserfake.java|943|947|Item|class|net.minecraft.item.Item
+      Method Start: ItemCustom()V
+         @|mod\mcreator\mcreator_laserfake.java|960|970|ItemCustom|method|mod.mcreator.mcreator_laserfake.ItemCustom|ItemCustom|()V
+         @|mod\mcreator\mcreator_laserfake.java|978|990|setMaxDamage|method|net.minecraft.item.Item|setMaxDamage|(I)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_laserfake.java|998|1010|maxStackSize|field|net.minecraft.item.Item|maxStackSize
+         @|mod\mcreator\mcreator_laserfake.java|1020|1038|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_laserfake.java|1056|1071|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+         @|mod\mcreator\mcreator_laserfake.java|1089|1103|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+         @|mod\mcreator\mcreator_laserfake.java|1104|1116|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+         @|mod\mcreator\mcreator_laserfake.java|1117|1121|MISC|field|net.minecraft.creativetab.CreativeTabs|MISC
+         @|mod\mcreator\mcreator_laserfake.java|1127|1142|ForgeRegistries|class|net.minecraftforge.fml.common.registry.ForgeRegistries
+         @|mod\mcreator\mcreator_laserfake.java|1143|1148|ITEMS|field|net.minecraftforge.fml.common.registry.ForgeRegistries|ITEMS
+         @|mod\mcreator\mcreator_laserfake.java|1149|1157|register|method|net.minecraftforge.registries.IForgeRegistry|register|(Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      Method End: ItemCustom()V
+      Method Start: getItemEnchantability()I
+         @|mod\mcreator\mcreator_laserfake.java|1173|1181|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_laserfake.java|1195|1216|getItemEnchantability|method|net.minecraft.item.Item|getItemEnchantability|()I
+      Method End: getItemEnchantability()I
+      Method Start: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcreator_laserfake.java|1296|1309|par1ItemStack|param|mod.mcreator.mcreator_laserfake.ItemCustom|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I|par1ItemStack|0
+         @|mod\mcreator\mcreator_laserfake.java|1242|1250|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_laserfake.java|1264|1285|getMaxItemUseDuration|method|net.minecraft.item.Item|getMaxItemUseDuration|(Lnet/minecraft/item/ItemStack;)I
+         @|mod\mcreator\mcreator_laserfake.java|1286|1295|ItemStack|class|net.minecraft.item.ItemStack
+      Method End: getMaxItemUseDuration(Lnet/minecraft/item/ItemStack;)I
+      Method Start: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|mod\mcreator\mcreator_laserfake.java|1384|1397|par1ItemStack|param|mod.mcreator.mcreator_laserfake.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par1ItemStack|0
+         @|mod\mcreator\mcreator_laserfake.java|1411|1420|par2Block|param|mod.mcreator.mcreator_laserfake.ItemCustom|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F|par2Block|1
+         @|mod\mcreator\mcreator_laserfake.java|1334|1342|Override|class|java.lang.Override
+         @|mod\mcreator\mcreator_laserfake.java|1358|1373|getDestroySpeed|method|net.minecraft.item.Item|getDestroySpeed|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+         @|mod\mcreator\mcreator_laserfake.java|1374|1383|ItemStack|class|net.minecraft.item.ItemStack
+         @|mod\mcreator\mcreator_laserfake.java|1399|1410|IBlockState|class|net.minecraft.block.state.IBlockState
+      Method End: getDestroySpeed(Lnet/minecraft/item/ItemStack;Lnet/minecraft/block/state/IBlockState;)F
+   Class End  : mod.mcreator.mcreator_laserfake.ItemCustom
+Class End  : mod.mcreator.mcreator_laserfake
+endProcessing "mod\mcreator\mcreator_laserfake.java"
+

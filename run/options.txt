@@ -1,0 +1,9 @@
+bobView:false
+fboEnable:true
+renderDistance:2
+fancyGraphics:false
+maxFps:250
+particles:2
+renderClouds:false
+ao:0
+mipmapLevels:2
