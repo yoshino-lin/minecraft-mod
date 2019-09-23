@@ -1,9 +1,11 @@
 bobView:false
 fboEnable:true
-renderDistance:2
+lastServer:localhost:25463
+renderDistance:5
 fancyGraphics:false
+entityShadows:true
 maxFps:250
-particles:2
+particles:0
 renderClouds:false
 ao:0
 mipmapLevels:2

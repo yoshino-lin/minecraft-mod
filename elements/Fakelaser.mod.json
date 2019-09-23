@@ -1,0 +1,28 @@
+{
+  "_fv": 4,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "fake_laser",
+    "customModelName": "Normal",
+    "name": "fake laser gun",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 2,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": false,
+    "canBeDroppedAsGrassSeed": false,
+    "droppedAsGrassSeedProbability": 5,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "\\u00A74A laser gun that lost all power."
+    ],
+    "hasGlow": false
+  }
+}

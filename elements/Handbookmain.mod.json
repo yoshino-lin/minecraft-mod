@@ -1,0 +1,28 @@
+{
+  "_fv": 4,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "handbook_main",
+    "customModelName": "Normal",
+    "name": "handbook",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 7,
+    "destroyAnyBlock": true,
+    "stayInGridWhenCrafting": false,
+    "canBeDroppedAsGrassSeed": false,
+    "droppedAsGrassSeedProbability": 5,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Right click to open main menu."
+    ],
+    "hasGlow": false
+  }
+}
