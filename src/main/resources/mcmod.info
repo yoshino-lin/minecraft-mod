@@ -1,19 +1,20 @@
 [
-{
-  "modid": "mcjdmly",
-  "name": "mcjdmly",
-  "description": "on can be use by mcjdmly server",
-  "version": "1.0.1",
-  "credits": "Created using mod maker MCreator",
-  "logoFile": "logo.png",
-  "mcversion": "1.12.2",
-  "url": "https://mcreator.net/about/",
-  "updateUrl": "",
-  "authorList": [ "mcjdmly爱的洛小星大人" , "MCreator" ],
-  "parent": "",
-  "screenshots": [],
-  "dependencies": [
-     "mod_MinecraftForge"
-  ]
-}
+  {
+    "modid": "mcjdmly",
+    "name": "mcjdmly_extra",
+    "description": "",
+    "version": "0.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://www.tjygf.com",
+    "updateUrl": "",
+    "authorList": [
+      "yoshino_lin",
+      "MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": []
+  }
 ]

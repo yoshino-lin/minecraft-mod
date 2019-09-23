@@ -1,0 +1,60 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Fakelaser",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Handbookmain",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ticketforlmzx",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.handbookmain.name": "handbook",
+      "item.ticketforlmzx.name": "ticket",
+      "item.fakelaser.name": "fake laser gun"
+    },
+    "zh_cn": {
+      "item.handbookmain.name": "handbook",
+      "item.ticketforlmzx.name": "ticket",
+      "item.fakelaser.name": "fake laser gun"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mcjdmly",
+    "modName": "mcjdmly_extra",
+    "version": "0.2",
+    "author": "yoshino_lin",
+    "websiteURL": "https://www.tjygf.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.12.2",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "lastOpenMCreatorVersion": "1.9.1"
+}
